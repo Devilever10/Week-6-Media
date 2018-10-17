@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Special+Elite");
+
+@import url("https://fonts.googleapis.com/css?family=Rock+Salt");
+
+#title {
+  font-size: 40pt;
+  text-align: center;
+  font-family: "Rock Salt";
+}
+
+h2 {
+  font-size: 30pt;
+  font-family: futura;
+  color: white;
+  text-align: right;
+}
+
+#documentary {
+  font-size: 14pt;
+  font-family: "futura";
+  text-align: right;
+  color: white;
+}
+
+p {
+  font-size: 12pt;
+  background-color: black;
+  background-size: 10px;
+  color: white;
+  font-family: "Special Elite";
+  letter-spacing: 2px;
+}
+
+img {
+  border-radius: 30px;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-size: 30pt;
+  background-color: white;
+  font-family: futura;
+}
+
+body {
+  background-image: url(https://media.giphy.com/media/xkDRxqYtYsi64/giphy.gif);
+  background-size: cover;
+  background-repeat: repeat;
+}
